@@ -31,10 +31,12 @@ body {
   color: rgba(0, 0, 0, 0.1);
   letter-spacing: 2px;
   margin: -0.3em 0 0.5em;
+  margin: 2rem;
 }
 
 .all-tasks {
   grid-area: lists;
+  margin: 2rem;
 }
 
 .task-list {
